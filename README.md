@@ -10,15 +10,24 @@ Este contenido reforzará tus habilidades con Python y la ciencia de datos por m
 Este contenido reforzará tus habilidades con Python y la ciencia de datos por medio de ejercicios prácticos que te permitirán ampliar tus conocimientos de forma amena y divertida. Durante el transcurso del curso, resolverás ejercicios con distintas dificultades para poner en práctica retos a completar. Para ello hay que detener el vídeo y resolver el ejercicio, posteriormente se podrá revisar el vídeo para comparar los resultados y obtener la respuesta correcta.
 
 ## Instrucciones
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+Este repositorio contiene todos los 
 
-## Ramas
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. Por ejemplo, la rama denominada 02_03_i corresponde al tercer desafío del segundo capítulo con el estado inicial y 02_03_f contiene la solución. La rama master tiene el estado final del código que aparece en el curso.
+**Part 1: Limpieza de Datos**
 
-## Instalación
-Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.   
+| Ejercicio                                  | Descripción                                                                  |
+|--------------------------------------------|------------------------------------------------------------------------------|
+| [1. Identificación de valores faltantes](/carpeta/ejercicio1.ipynb)   | Identifique las columnas dentro del dataframe que tienen valores NaN o None. Tu tarea es calcular el número de valores faltantes para cada columna.|
+| [2. Eliminación de columnas](/carpeta/ejercicio2.ipynb)  | Identifique la columna que tiene mayor número de valores nulos y eliminar dicha columna de nuestro dataframe.|
+| [2. Eliminación de filas](/carpeta/ejercicio3.ipynb) | Encuentre y elimine las filas que contengan valores nulos dentro de nuestro dataframe. |
+| [4. Preprocesamiento de Datos](/carpeta/ejercicio4.ipynb)  | Limpieza y transformación de datos para prepararlos para el modelado.       |
+| [5. Construcción de Modelos Predictivos](/carpeta/ejercicio5.ipynb)  | Creación de modelos de regresión y clasificación utilizando scikit-learn.   |
+| [6. Evaluación de Modelos](/carpeta/ejercicio6.ipynb)   | Evaluación de modelos y comprensión de métricas de rendimiento.             |
+| [7. Aprendizaje Profundo con TensorFlow](/carpeta/ejercicio7.ipynb)  | Introducción al aprendizaje profundo utilizando la biblioteca TensorFlow.   |
+| [8. Proyecto Final](/carpeta/proyecto_final.ipynb)  | Aplicación de todo lo aprendido en un proyecto integral de ciencia de datos.|
 
-### Docente
+**Part 2: Visualización de Datos**
+
+## Creditos
 
 **Lincy González Rojas**
 
