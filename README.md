@@ -34,7 +34,10 @@ Este repositorio contiene todos los
 | [4. Normalización](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_04.ipynb)  | Aplicar una técnica de normalización en las columnas del dataframe.       |
 | [5. Nuevos registros](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_05.ipynb)  | Agregar una nueva fila a nuestro dataframe.   |
 | [6. Procesamiento de datos](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_06.ipynb)   | Primero, eliminar el encabezado o la primera fila del arreglo. Segundo, convertir el tipo dato e imprimir el resultado.             |
-| [7. Selección de tipo de datos](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_07.ipynb)  | Extraer solamente aquellas columnas que sean de tipo float o int(flotantes o integers).   |
+| [7. Selección de tipo de dato](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_07.ipynb)  | Extraer solamente aquellas columnas que sean de tipo float o int(flotantes o integers).   |
+| [8. Selección de valores](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_08.ipynb)  | Extraer las filas de donde el CO2(la columna con índice 4) sea mayor que 204. E imprimir el resultado.   |
+| [9. Organización de valores](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_09.ipynb)  | Extraer las primeras 10 filas que tengan el valor más alto en columna con índice 4. El resultado debe serordenado de mayor a menor.   |
+| [10. Selección de tipo de datos](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_10.ipynb)  | Extraer solamente aquellas columnas que sean de tipo float o int(flotantes o integers).   |
 
 **Part 3: Técnicas de Agrupamiento**
 
