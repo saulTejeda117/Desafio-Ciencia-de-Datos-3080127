@@ -16,16 +16,16 @@ Este repositorio contiene todos los
 
 | Ejercicio                                  | Descripción                                                                  |
 |--------------------------------------------|------------------------------------------------------------------------------|
-| [1. Identificación de valores faltantes](/carpeta/ejercicio1.ipynb)   | Identifique las columnas dentro del dataframe que tienen valores NaN o None. Tu tarea es calcular el número de valores faltantes para cada columna.|
-| [2. Eliminación de columnas](/carpeta/ejercicio2.ipynb)  | Identifique la columna que tiene mayor número de valores nulos y eliminar dicha columna de nuestro dataframe.|
-| [2. Eliminación de filas](/carpeta/ejercicio3.ipynb) | Encuentre y elimine las filas que contengan valores nulos dentro de nuestro dataframe. |
-| [4. Preprocesamiento de Datos](/carpeta/ejercicio4.ipynb)  | Limpieza y transformación de datos para prepararlos para el modelado.       |
-| [5. Construcción de Modelos Predictivos](/carpeta/ejercicio5.ipynb)  | Creación de modelos de regresión y clasificación utilizando scikit-learn.   |
-| [6. Evaluación de Modelos](/carpeta/ejercicio6.ipynb)   | Evaluación de modelos y comprensión de métricas de rendimiento.             |
-| [7. Aprendizaje Profundo con TensorFlow](/carpeta/ejercicio7.ipynb)  | Introducción al aprendizaje profundo utilizando la biblioteca TensorFlow.   |
-| [8. Proyecto Final](/carpeta/proyecto_final.ipynb)  | Aplicación de todo lo aprendido en un proyecto integral de ciencia de datos.|
+| [1. Valores nulos](/My%20Solutions/Part%201%20Limpieza%20de%20Datos/Solution%20SRTM%2001_01.ipynb)   | Hay columnas dentro del dataframe que tienen valores NaN o None. Tu tarea es calcular el número de valores faltantes para cada columna.|
+| [2. Eliminación de columnas](/My%20Solutions/Part%201%20Limpieza%20de%20Datos/Solution%20SRTM%2001_02.ipynb)  | Identifique la columna que tiene mayor número de valores nulos y eliminar dicha columna de nuestro dataframe.|
+| [3. Eliminación de filas](/My%20Solutions/Part%201%20Limpieza%20de%20Datos/Solution%20SRTM%2001_03.ipynb) | Encuentre y elimine las filas que contengan valores nulos dentro de nuestro dataframe. |
+| [4. Detección de datos duplicados](/My%20Solutions/Part%201%20Limpieza%20de%20Datos/Solution%20SRTM%2001_04.ipynb)  | Averiguar si el dataframe contiene filas duplicadas.       |
+| [5. Eliminación de datos duplicados](/My%20Solutions/Part%201%20Limpieza%20de%20Datos/Solution%20SRTM%2001_05.ipynb)  | Eliminar duplicaciones en el dataframe ya que podrían afectar los resultados de nuestros futuros análisis.   |
+| [6. Reemplazar datos faltantes (Imputación)](/My%20Solutions/Part%201%20Limpieza%20de%20Datos/Solution%20SRTM%2001_06.ipynb)   | Hacer uso de la técnica de imputación para reemplazar los valores faltanrtes con valores sensibles. Llenar los datos faltantes de la columna de edad con la media de edad.             |
+| [7. Reemplazar datos faltantes (Imputación de regresión)](/My%20Solutions/Part%201%20Limpieza%20de%20Datos/Solution%20SRTM%2001_07.ipynb)  | Utilizar la imputación de regresión para la columna de edad denuestro dataframe, la cual contiene valores vacíos.   |
 
-**Part 2: Visualización de Datos**
+**Part 2: Procedimiento y Análisis**
+
 
 ## Creditos
 
