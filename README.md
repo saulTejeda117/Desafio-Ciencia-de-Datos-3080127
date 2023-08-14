@@ -26,6 +26,16 @@ Este repositorio contiene todos los
 
 **Part 2: Procedimiento y Análisis**
 
+| Ejercicio                                  | Descripción                                                                  |
+|--------------------------------------------|------------------------------------------------------------------------------|
+| [1. Correlación](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_01.ipynb)   | Averiguar si existe una relación entre los años de experiencia laboral y el salario, utilizando Python y la librería de Pandas|
+| [2. Promedio de columnas](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_02.ipynb)  | Obtener el promedio de cada una de las columnas de nuestro dataframe, utilizando Python y la librería de Pandas.|
+| [3. Estadísticas por columnas](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_03.ipynb) | Encontrar el mínimo, el máximo, la varianza y la desviación estándar del dataframe que contine información de temperaturas. |
+| [4. Normalización](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_04.ipynb)  | Aplicar una técnica de normalización en las columnas del dataframe.       |
+| [5. Nuevos registros](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_05.ipynb)  | Agregar una nueva fila a nuestro dataframe.   |
+| [6. Procesamiento de datos](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_06.ipynb)   | Primero, eliminar el encabezado o la primera fila del arreglo. Segundo, convertir el tipo dato e imprimir el resultado.             |
+| [7. Selección de tipo de datos](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_07.ipynb)  | Extraer solamente aquellas columnas que sean de tipo float o int(flotantes o integers).   |
+
 
 ## Creditos
 
