@@ -36,6 +36,9 @@ Este repositorio contiene todos los
 | [6. Procesamiento de datos](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_06.ipynb)   | Primero, eliminar el encabezado o la primera fila del arreglo. Segundo, convertir el tipo dato e imprimir el resultado.             |
 | [7. Selección de tipo de datos](/My%20Solutions/Part%202%20Procedimiento%20y%20análisis/Solution%20SRTM%2002_07.ipynb)  | Extraer solamente aquellas columnas que sean de tipo float o int(flotantes o integers).   |
 
+**Part 3: Técnicas de Agrupamiento**
+
+**Part 4: Modelos de Aprendizaje Automático(Machine Learning)**
 
 ## Creditos
 
