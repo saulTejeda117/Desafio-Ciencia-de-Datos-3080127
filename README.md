@@ -4,7 +4,7 @@ Este es el repositorio del curso de LinkedIn Learning `Desafío de programación
 ![COURSENAME][lil-thumbnail-url] 
 
 ## Instrucciones
-Este repositorio contiene todos los 
+Dentro de este repositorio contiene las respuestas del curso "Desafío de Programación: Python para Ciencia de Datos" de LinkedIn Learning. Aquí encontrarás mis soluciones de los ejercicios planteados en el curso en los diferentes modulos, diseñados para fortalecer tus habilidades en Python y ciencia de datos.
 
 **Part 1: Limpieza de Datos**
 
